@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Kinder_bijslag
+namespace Kinderbijslag
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Kinder_bijslag
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new De_Form());
         }
     }
 }
